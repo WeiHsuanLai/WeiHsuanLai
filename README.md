@@ -9,7 +9,7 @@ export default {
   country: 'Taipei',
   technologies:{
     backEnd: ['nodejs'],
-    frontEnd: ['javascript', 'jquery', 'vue', 'nuxt', 'quasar', 'uniapp'],
+    frontEnd: ['javascript', 'jquery', 'vue', 'nuxt', 'quasar', 'uniapp','vuetify'],
     database: ['mongo','mysql'],
   }
 }
