@@ -23,12 +23,6 @@ export default {
 
 </div>
 
----
-
-## 📈 GitHub Summary Cards
-
----
-
 ## ✨ GitHub Stats
 
 <div align="center">
