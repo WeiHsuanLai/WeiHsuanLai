@@ -19,7 +19,7 @@ export default {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,react,html,css,mongodb,express,github,git,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,react,html,css,mongodb,express,github,git,vscode,uniapp" />
 
 </div>
 
