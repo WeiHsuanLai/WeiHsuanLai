@@ -1,6 +1,6 @@
 <h2 align="center">✋Wecome My GitHub✋</h2>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/23/00/a0/2300a03c623b86f22b2ae74ab23e578f.gif" width="600" />
+  <img src="https://i.pinimg.com/originals/23/00/a0/2300a03c623b86f22b2ae74ab23e578f.gif" width="400" />
 </div>
 
 ```js
@@ -19,7 +19,7 @@ export default {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,react,html,css,mongodb,express,github,git,vscode,vuetify" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,react,html,css,mongodb,express,github,git,vscode,vuetify,photoshop,illustrator" />
 
 </div>
 
