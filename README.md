@@ -1,2 +1,3 @@
-## Hi there 👋
-![宇宙](https://cdn.pixabay.com/animation/2023/01/24/23/10/23-10-04-56_512.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/23/00/a0/2300a03c623b86f22b2ae74ab23e578f.gif" width="600" />
+</div>
